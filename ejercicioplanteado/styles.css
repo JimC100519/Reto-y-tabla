@@ -1,0 +1,46 @@
+.titulo{
+    color: white;
+    background-color: #5A3954;
+    text-align: center;
+    padding: 20px;
+}
+body{
+    background-color: #033442;
+
+}
+h2{
+    color: white;
+    text-align: center;
+    size: 50px;
+}
+p{
+    border-radius: 10px;
+    background-color: #068B8A;
+    text-align: center;
+    font-size: medium;
+}
+.se_impecable{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
+.no_tomes{
+    margin-left: 10px;
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+   
+}
+.no_adivines{
+    margin-right: 10px;
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+.hace_siempre{
+    margin-left: 10px;
+    width: 49%;
+    display: inline-block;
+    
+}
